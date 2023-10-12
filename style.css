@@ -1,0 +1,63 @@
+.container{
+    max-width: 1540px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+.header-top{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.one{
+    padding-right: 300px;
+    color: #006450;
+}
+
+.two{
+    padding-left: 300px;
+    color: #006450;
+}
+
+.other{
+    color: #006450;
+}
+
+.father{
+    color: #00C08B;
+}
+
+.info {
+    background-image: url(Rectangle.jpg);
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.slame-text{
+    display: flex;
+    padding-top: 150px;
+}
+
+.textt{
+    display: flex;
+    color: white;
+    font-size: 36px;
+    list-style-type: none;
+}
+
+.texttt{
+    color: white;
+    font-size: 36px;
+    list-style-type: none;
+}
+
+.button{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding: 20px 30px;
+    margin: 10px 20px;
+    background-color: #ffff02;
+    margin-left: 200px;
+}
